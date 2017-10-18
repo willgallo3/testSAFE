@@ -15,7 +15,7 @@ a:hover {
 }
 
 header {
-	background: url('../img/header-bg-new.jpg') no-repeat center center fixed; 
+	background: url('../img/header-bg-new.jpg') no-repeat center center fixed;
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -34,7 +34,7 @@ header:after {
   height:100%;
   opacity:0.7;
   z-index: 0;
-  background: #00A5FF;
+  background: red;
 }
 
 h1 {
@@ -75,7 +75,7 @@ ul {
 }
 
 .content-title {
-	margin-top: 30px;	
+	margin-top: 30px;
 }
 
 .content-text {
@@ -283,7 +283,7 @@ ul {
 }
 
 .icon-bg {
-	background: #00A5FF;
+	background: red;
 	width: 80px;
 	height: 80px;
 	text-align: center;
@@ -441,6 +441,13 @@ ul {
   padding: 20px 0px;
   position: relative;
 }
+
+
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+}
 .timeline li .timeline-badge {
   color: #fff;
   width: 50px;
@@ -452,7 +459,7 @@ ul {
   top: 16px;
   left: 50%;
   margin-left: -25px;
-  background: #007cbf;
+  background: red;
   border: 5px solid white;
   z-index: 100;
   border-top-right-radius: 50%;
@@ -554,7 +561,7 @@ ul {
 }
 
 .invest {
-	background: url('../img/footer-bg-new.jpg') no-repeat center center fixed; 
+	background: url('../img/footer-bg-new.jpg') no-repeat center center fixed;
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -576,7 +583,7 @@ ul {
   	height:100%;
   	opacity:0.7;
   	z-index: 0;
-  	background: #00A5FF;
+  	background: red;
 }
 
 .invest .container {
@@ -856,7 +863,7 @@ ul {
 .will-pic-small {
 	width: 150px;
 	height: 150px;
-	border-radius: 50%; 
+	border-radius: 50%;
 }
 
 .social {
@@ -989,7 +996,7 @@ ul {
     height:100%;
     opacity:0.7;
     z-index: 0;
-    background: #00A5FF;
+    background: red;
 }
 
 
